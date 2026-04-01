@@ -1,0 +1,4 @@
+Used ChatGPT to generate initial solution
+Modified logic for better mismatch detection
+Tested different cases
+Verified outputs

@@ -1,0 +1,15 @@
+Test Case 1: Late Settlement
+Input: Transaction on Jan 30, settlement on Feb 1
+Expected: Detected
+
+Test Case 2: Rounding Issue
+Input: 300.50 vs 300.49
+Expected: Detected
+
+Test Case 3: Duplicate Entry
+Input: Same ID appears twice
+Expected: Detected
+
+Test Case 4: Refund Without Original
+Input: Refund ID not present in transactions
+Expected: Detected

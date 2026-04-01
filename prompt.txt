@@ -1,0 +1,1 @@
+Create a Python program using pandas to compare transaction and bank settlement data. Detect mismatches such as missing entries, duplicate records, rounding differences, late settlements, and refunds without original transactions. Generate sample data and print all discrepancies clearly.

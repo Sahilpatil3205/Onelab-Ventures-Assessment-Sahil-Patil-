@@ -1,0 +1,5 @@
+1. Transaction IDs are unique
+2. Settlement delay is maximum 2 days
+3. Amount difference greater than 0.01 is considered mismatch
+4. Refund must have a corresponding original transaction
+5. Duplicate entries indicate system error
